@@ -1,0 +1,26 @@
+{
+  "name": "Bilar Amigo Secreto",
+  "short_name": "Bilar Secreto",
+  "description": "Organize grupos, sorteios, listas de desejos e conversas no Bilar Amigo Secreto.",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f7f5",
+  "theme_color": "#087f5b",
+  "lang": "pt",
+  "categories": [
+    "social",
+    "entertainment",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

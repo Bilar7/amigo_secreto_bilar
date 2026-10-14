@@ -1,0 +1,6 @@
+{
+  "name": "Bilar Amigo Secreto",
+  "description": "Plataforma completa de Amigo Secreto desenvolvida pela Bilar DigitalTech Solutions para todas as ocasiões: aniversários, empresas, família e celebrações com chat estilo WhatsApp e sorteio seguro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
